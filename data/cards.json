@@ -1,0 +1,28 @@
+{
+    "card_holders": [
+        {
+            "card_number": "4516-9672-9801-3864",
+            "name": "John Doe",
+            "card_password": "securepassword",
+            "birthday": "1990-01-01",
+            "card_status": "active",
+            "card_balance": 0.0,
+            "transactions": [
+                {
+                    "date": "2024-09-13",
+                    "description": "Bank Transfer",
+                    "transaction_type": "credit",
+                    "amount": 100.0,
+                    "balance": 100.0
+                },
+                {
+                    "date": "2024-09-13",
+                    "description": "Bank Transfer",
+                    "transaction_type": "debit",
+                    "amount": 100.0,
+                    "balance": 0.0
+                }
+            ]
+        }
+    ]
+}
